@@ -1,0 +1,29 @@
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Stein\Dropbox\College\C#\GameOfBattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\User\Desktop\Новая папка (2)\Battleship-game-master\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\User\Desktop\Новая папка (2)\zup\BattleShip\obj\Debug\BattleShip.pdb
